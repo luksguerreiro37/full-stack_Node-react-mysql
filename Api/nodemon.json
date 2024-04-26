@@ -1,0 +1,7 @@
+{
+    "watch": ["src"],
+    "ext": "js",
+    "ignore": ["src/public"],
+    "exec": "sucrase-node src/utils/server.js"
+}
+  

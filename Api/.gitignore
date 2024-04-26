@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log
+.env
+src/database/migrations/*.js
+src/database/migrations/*.map
+src/database/seeders/*.js
+src/database/seeders/*.map
+firebase-adminsdk.json
+logs/
+src/config/serviceAccountKey.json
+*.log
